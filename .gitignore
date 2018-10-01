@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+# EXECUTABLE
+automata
+
+
 # Object files
 *.o
 *.ko
